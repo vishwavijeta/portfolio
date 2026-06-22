@@ -1,0 +1,51 @@
+/* ============================================================
+   THEME — "Maison Ivory"
+   Porcelain surfaces · oxblood signature · antique gold details ·
+   midnight-plum depth. A warm, editorial light theme.
+   ============================================================ */
+
+:root {
+  /* --- Signature palette --- */
+  --color-maroon: #6f1d35;
+  --color-maroon-soft: rgba(111, 29, 53, 0.08);
+  --color-gold: #a47c42;
+  --color-gold-soft: rgba(164, 124, 66, 0.11);
+  --color-charcoal: #29212b;
+  --color-charcoal-soft: rgba(41, 33, 43, 0.07);
+
+  /* --- Warm light surfaces --- */
+  --bg: #f5f0e8;
+  --bg-elevated: #fbf8f2;
+  --bg-card: rgba(255, 253, 249, 0.92);
+
+  /* --- Text --- */
+  --text: #29212b;
+  --text-muted: #71676d;
+
+  /* --- Lines & borders --- */
+  --border: #dfd3c4;
+  --border-strong: #cbb99f;
+
+  /* --- Primary accent (section titles, links) --- */
+  --accent: var(--color-maroon);
+
+  /* --- Section accent aliases (map to component classes) --- */
+  --color-red: var(--color-maroon);
+  --color-red-soft: var(--color-maroon-soft);
+  --color-blue: var(--color-charcoal);
+  --color-blue-soft: var(--color-charcoal-soft);
+  --color-green: var(--color-gold);
+  --color-green-soft: var(--color-gold-soft);
+
+  /* --- Spacing & shape tokens --- */
+  --radius-sm: 5px;
+  --radius-md: 16px;
+  --radius-pill: 999px;
+  --shadow-card:
+    0 1px 0 rgba(255, 255, 255, 0.9) inset,
+    0 14px 35px rgba(66, 45, 50, 0.07);
+
+  /* --- Typography --- */
+  --font-sans: "Avenir Next", Avenir, "Segoe UI", sans-serif;
+  --font-display: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+}

@@ -1,0 +1,75 @@
+[
+  {
+    "company": "KYC Hub",
+    "role": "Software Development Engineer - FE",
+    "location": "Remote",
+    "duration": "June 2025 - Present",
+    "description": [
+      "Developed and enhanced AML, KYC verification, and fraud detection modules using React.js, delivering scalable compliance solutions for enterprise clients.",
+      "Designed APIs and optimized PDF report generation workflows, eliminating browser blocking issues and improving application reliability.",
+      "Built Video KYC (vKYC) module using OpenVidu (WebRTC) with dynamic camera controls, watermark-based customization, resilient streaming, reconnection handling, and latency optimization.",
+      "Implemented mTLS authentication for secure client-server communication, enabling encrypted data exchange and strong identity verification.",
+      "Improved application performance and responsiveness through optimized rendering, efficient API handling, and modern frontend best practices."
+    ],
+    "tech": [
+      "React.js",
+      "TypeScript",
+      "Zustand",
+      "React Query",
+      "JavaScript",
+      "Ant Design",
+      "Node.js",
+      "OpenVidu",
+      "WebRTC",
+      "mTLS"
+    ]
+  },
+  {
+    "company": "DePronto Infotech",
+    "role": "Software Development Engineer - FE",
+    "location": "Mumbai, India (Remote)",
+    "duration": "Sept 2024 - March 2025",
+    "description": [
+      "Developed and maintained key features for ICICI Prudential insurance web applications using React.js and jQuery.",
+      "Converted Figma designs into responsive, cross-browser compatible user interfaces with improved user experience.",
+      "Implemented Core Web Vitals optimization strategies, reducing initial loading time to approximately 1 second and improving performance and SEO rankings.",
+      "Debugged and resolved client-reported production issues, ensuring application stability and reliability.",
+      "Collaborated with product managers, backend engineers, and designers while conducting code reviews to improve code quality and maintainability."
+    ],
+    "tech": [
+      "React.js",
+      "MobX",
+      "JavaScript",
+      "jQuery",
+      "HTML5",
+      "CSS3"
+    ]
+  },
+  {
+    "company": "ExpertRec Custom Search Engine (Cloudbash Technologies Pvt Ltd)",
+    "role": "Software Engineer",
+    "location": "Bengaluru, India",
+    "duration": "Oct 2022 - Aug 2024",
+    "description": [
+      "Led the end-to-end development of a React.js Control Panel dashboard from scratch, building scalable features for real-time indexing, cron-based crawling, re-crawling, pause/resume, and data indexing controls.",
+      "Developed responsive and cross-browser compatible interfaces using Material UI, Angular Nebular, and Handlebars.js, improving search experiences across desktop, tablet, and mobile devices.",
+      "Designed frontend-backend workflows, implemented payment integration flows, integrated Brevo APIs for analytics, and handled complex business edge cases.",
+      "Improved product quality by debugging critical issues, resolving complex CSS conflicts, and writing automated test cases using Pytest, Nightwatch.js, and Protractor.js.",
+      "Designed new UI themes, developed Bash automation scripts, proposed product improvements, and collaborated with teams to deliver scalable solutions."
+    ],
+    "tech": [
+      "React.js",
+      "JavaScript",
+      "Angular",
+      "Handlebars.js",
+      "Material UI",
+      "Python",
+      "Bash",
+      "Git",
+      "HTML5",
+      "CSS3",
+      "Docker",
+      "Nightwatch.js"
+    ]
+  }
+]

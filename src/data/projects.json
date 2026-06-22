@@ -1,0 +1,67 @@
+[
+    {
+    "name": "Health Tracker ",
+    "description": [
+      "Developed a responsive dashboard to monitor blood-test results and automatically flag values outside healthy reference ranges.",
+      "Built interactive trend charts, summary cards, category filters, validated data-entry forms, and historical reading tables.",
+      "Designed the application for future PDF report importing using PDF.js and Tesseract.js OCR, enabling automatic extraction of medical test data."
+    ],
+    "tech": [
+     "React.js", "Vite", "Ant Design", "Recharts"
+    ],
+    "link": "https://github.com/vishwavijeta/health-tracker",
+    "liveLink": "https://www.vishwavijeta.info/project/health-tracker/"
+  },
+  {
+    "name": "Indexing Admin Panel",
+    "description": [
+      "Developed a scalable dashboard for real-time indexing of products and content management.",
+      "Built 10+ modules for efficient configuration, crawling control, and indexing operations.",
+      "Implemented responsive and user-friendly UI using Material UI with cross-device compatibility."
+    ],
+    "tech": [
+      "React.js",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Material UI"
+    ],
+    "link": "",
+    "liveLink": "https://vishwavijeta.info"
+  },
+  {
+    "name": "Chatbot Flow Builder",
+    "description": [
+      "Built a drag-and-drop chatbot flow builder with node-based architecture similar to MindMup.",
+      "Implemented custom validation logic for nodes and connections to ensure correct workflow creation.",
+      "Designed an interactive flow editor enabling users to visually create and manage chatbot conversations."
+    ],
+    "tech": [
+      "React.js",
+      "React Flow",
+      "JavaScript",
+      "HTML5",
+      "CSS3"
+    ],
+    "link": "https://github.com/vishwavijeta/Chatbot-flow-builder",
+    "liveLink": "https://vishwavijeta.info/project"
+  },
+  {
+    "name": "Dynamic Filter System",
+    "description": [
+      "Built a reusable configuration-driven filter builder for employee data tables using React.js and TypeScript.",
+      "Implemented advanced filtering with text, number, currency, date, select, multi-select, and boolean field support.",
+      "Added real-time client-side filtering, nested field access, sortable table view, record counts, empty states, and CSV export functionality."
+    ],
+    "tech": [
+      "React.js",
+      "TypeScript",
+      "Material UI",
+      "Vite",
+      "JSON",
+      "Day.js"
+    ],
+    "link": "https://github.com/vishwavijeta/dynamic-filter-system",
+    "liveLink": "https://www.vishwavijeta.info/project/edstruments"
+  }
+]
