@@ -1,3 +1,5 @@
+import { GitHubIcon, LinkedInIcon } from './Icons'
+
 export default function Header({ id, profile }) {
   const c = profile.contact || {}
 
@@ -22,12 +24,16 @@ export default function Header({ id, profile }) {
           )}
           {c.github && (
             <li className="contact__item">
-              <a href={c.github} target="_blank" rel="noreferrer">🐙 GitHub</a>
+              <a href={c.github} target="_blank" rel="noreferrer" aria-label="GitHub profile">
+                <GitHubIcon /> GitHub
+              </a>
             </li>
           )}
           {c.linkedin && (
             <li className="contact__item">
-              <a href={c.linkedin} target="_blank" rel="noreferrer">💼 LinkedIn</a>
+              <a href={c.linkedin} target="_blank" rel="noreferrer" aria-label="LinkedIn profile">
+                <LinkedInIcon /> LinkedIn
+              </a>
             </li>
           )}
         </ul>

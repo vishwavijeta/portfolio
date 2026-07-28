@@ -1,5 +1,5 @@
 [
-    {
+  {
     "name": "Health Tracker ",
     "description": [
       "Developed a responsive dashboard to monitor blood-test results and automatically flag values outside healthy reference ranges.",
@@ -7,7 +7,10 @@
       "Designed the application for future PDF report importing using PDF.js and Tesseract.js OCR, enabling automatic extraction of medical test data."
     ],
     "tech": [
-     "React.js", "Vite", "Ant Design", "Recharts"
+      "React.js",
+      "Vite",
+      "Ant Design",
+      "Recharts"
     ],
     "link": "https://github.com/vishwavijeta/health-tracker",
     "liveLink": "https://www.vishwavijeta.info/project/health-tracker/"
@@ -28,6 +31,25 @@
     ],
     "link": "",
     "liveLink": "https://www.vishwavijeta.info/project/indexing-panel"
+  },
+  {
+    "name": "Dabang — Sales Analytics Dashboard",
+    "description": [
+      "Built a responsive, themeable sales analytics dashboard in React from the Dabang Figma design, with eight widgets covering revenue, visitor insights, target vs reality, and customer satisfaction.",
+      "Implemented a geographic \"Sales Mapping by Country\" world map with react-simple-maps and a vendored 110m country topology, matching countries by ISO code and rendering an offline map with hover tooltips.",
+      "Engineered light/dark theming on a single CSS custom-property token layer (persisted, applied before first paint), per-widget error boundaries, code-split lazy routes, and a hand-built component and icon library with no UI kit."
+    ],
+    "tech": [
+      "React.js",
+      "Vite",
+      "React Router",
+      "Recharts",
+      "react-simple-maps",
+      "Zustand",
+      "CSS Modules"
+    ],
+    "link": "https://github.com/vishwavijeta/aforro-dashboard",
+    "liveLink": "https://dabang.vishwavijeta.info/"
   },
   {
     "name": "Chatbot Flow Builder",
